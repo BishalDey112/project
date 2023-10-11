@@ -1,0 +1,8 @@
+git init
+git add
+git comit -m 'first comit'
+git branch add origin <URL>
+git push -u origin main
+----------------------------
+git config --global user.name "name"
+git config --global user.email "email@gmail.com"
